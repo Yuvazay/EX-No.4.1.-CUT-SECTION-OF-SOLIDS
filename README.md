@@ -41,6 +41,7 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/198825351-b514a4e7-06af-4ee0-8197-e8267749f8a8.png)
 
 ## OUTPUT:
+![YUVA EX 6](https://github.com/Yuvazay/EX-No.4.1.-CUT-SECTION-OF-SOLIDS/assets/151486377/c5efd469-7e8b-43f8-a4ab-7c9d95ae6ce2)
 
 ## RESULT:
 
